@@ -1,0 +1,3 @@
+[submodule "argo-cd-setup"]
+	path = argo-cd-setup
+	url = https://github.com/clumumba/argocdtest.git
